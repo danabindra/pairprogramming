@@ -1,10 +1,10 @@
-# 🎓 Scrabble Showdown – Teacher Edition
+# Scrabble Showdown – Teacher Edition
 
 Welcome to **Scrabble Showdown**, a week-long Python pair programming project designed for beginner developers. This page is your complete teaching resource: setup, structure, links, and how to run it in class.
 
 ---
 
-## 🧠 Project Summary
+## Project Summary
 
 **Scrabble Showdown** is a terminal-based word game inspired by Scrabble. Students work in pairs to:
 
@@ -16,7 +16,7 @@ Welcome to **Scrabble Showdown**, a week-long Python pair programming project de
 
 ---
 
-## 📦 Project Bundle Includes
+## Project Bundle Includes
 
 | File/Folder | Description |
 |-------------|-------------|
@@ -30,7 +30,7 @@ Welcome to **Scrabble Showdown**, a week-long Python pair programming project de
 
 ---
 
-## 🗓️ Recommended Schedule (5 Days)
+## Recommended Schedule (5 Days)
 
 | Day | Focus | Outcome |
 |-----|-------|---------|
@@ -42,7 +42,7 @@ Welcome to **Scrabble Showdown**, a week-long Python pair programming project de
 
 ---
 
-## ✏️ Student Deliverables
+## Student Deliverables
 
 - Working Python game (terminal-based)
 - `journal.md` with 5 daily entries
@@ -51,7 +51,7 @@ Welcome to **Scrabble Showdown**, a week-long Python pair programming project de
 
 ---
 
-## 💬 Reflection & Grading
+## Reflection & Grading
 
 Use `journal.md` to assess:
 - Individual learning
@@ -66,7 +66,7 @@ Optional rubric (out of 25 points):
 
 ---
 
-## 🌐 Hosting This Project
+## Hosting This Project
 
 Host this repo and bundle on your:
 - GitHub Organization or Classroom repo
