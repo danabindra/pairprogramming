@@ -1,0 +1,22 @@
+# Scrabble Showdown 🟨
+
+A simple two-player Scrabble-style game built in Python. Designed for classroom pair programming.
+
+## How to Play
+1. Run `main.py`
+2. Get a random set of letters
+3. Enter a word using those letters
+4. Game scores your word using Scrabble rules
+
+## Features
+- Word validation (basic)
+- Scrabble scoring system
+- Custom letter draws
+- Player reflection journal
+
+## Requirements
+- Python 3.8+
+- Works in terminal
+
+## Authors
+This game was built in pairs! See `journal.md` for team contributions.
